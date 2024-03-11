@@ -1,0 +1,10 @@
+.greetimg1{
+    /* background-image:url("images/greetbkg.png"); */
+    background-color: #0076a8;
+    min-height: 100%;
+    min-width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

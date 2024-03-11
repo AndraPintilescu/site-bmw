@@ -1,0 +1,74 @@
+.e30det_cover{
+    background-image: url("/images/e30/cover.png");
+    background-color: #cccccc;
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.e38det_cover{
+    background-image: url("/images/e38/cover.png");
+    background-color: #cccccc;
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.e39det_cover{
+    background-image: url("/images/e39/cover.png");
+    background-color: #cccccc;
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.ptitle{
+    text-align: center;
+    font-family:"Poppins";
+    font-weight: 800;
+    font-size: 64px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.det{
+    min-height: 100%;
+    background-color: #1a1a1a;
+    font-size: 32px;
+    color: white;
+    box-shadow: inset 0 0 30vw rgb(0, 0, 0);
+}
+.content{
+
+    justify-content: center;  
+    grid-template-columns: auto auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 20%;
+    padding-left: 20%;
+    text-align: center;
+}
+
+.images{
+    padding-top: 150px;
+}
+.rm-button{
+    border: none;
+    color: #ffffff;
+    background-color: #0076a8;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
